@@ -20,7 +20,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I'm **Sona Jomon**, a Computer Science undergraduate passionate about building intelligent, scalable software that creates real-world impact.
 
@@ -30,44 +30,19 @@ Outside of coding, you'll usually find me painting, getting lost in a good book,
 
 ---
 
-# 🚀 Current Focus
-
-- 🤖 Exploring **Generative AI**, **LLMs**, **RAG**, and **Computer Vision**
-- 🌱 Contributing to **Open Source**
-- 💼 Preparing for Software Engineering Internships
-- 📚 Continuously learning new technologies and best practices
-
----
-
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
-
-### Languages
-
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,sql"/>
-
-### Frontend
-
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
-
-### Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-### Databases
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-### Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
 </div>
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
@@ -77,23 +52,23 @@ Outside of coding, you'll usually find me painting, getting lost in a good book,
 
 ---
 
-# 📌 Featured Repositories
+# Featured Repositories
 
 <div align="center">
 
 <a href="https://github.com/sona-gem/Sudoku_Solver">
-<img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=sona-gem&repo=Sudoku_Solver&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sona-gem&repo=Sudoku_Solver&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sona-gem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sona-gem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=sona-gem&theme=tokyonight&hide_border=true"/>
 
@@ -103,13 +78,13 @@ Outside of coding, you'll usually find me painting, getting lost in a good book,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sona-gem&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sona-gem&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -118,41 +93,3 @@ Outside of coding, you'll usually find me painting, getting lost in a good book,
 </div>
 
 ---
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sona-gem&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sona-jomon-840367340">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sonajomon103@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sona-gem">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *"Code is never finished. It only gets better."*
-
-Thanks for stopping by! Feel free to explore my repositories and connect with me.
-
-</div>
