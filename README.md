@@ -33,52 +33,34 @@ Outside of coding, you'll usually find me painting, getting lost in a good book,
 # Tech Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,sql"/>
+
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
 </div>
 
 ---
 
 # Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🧠 **NeuroBridge** | AI-powered platform focused on making intelligent assistance more accessible. | Python • FastAPI • React |
-| 🧩 **Sudoku Solver** | Detects Sudoku puzzles using Computer Vision, solves them automatically, and overlays the solution onto the puzzle. | OpenCV • Flask • React |
-| 💰 **Paylytics** | Machine Learning web application that predicts employee salaries based on experience and education. | Python • Scikit-Learn • Streamlit |
+| Project              | Description                                                                                                         | Tech Stack                        |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+| 🧠 **NeuroBridge**   | AI-powered platform focused on making intelligent assistance more accessible.                                       | Python • FastAPI • React          |
+| 🧩 **Sudoku Solver** | Detects Sudoku puzzles using Computer Vision, solves them automatically, and overlays the solution onto the puzzle. | OpenCV • Flask • React            |
 
 ---
 
-# Featured Repositories
 
 <div align="center">
 
-<a href="https://github.com/sona-gem/Sudoku_Solver">
-<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sona-gem&repo=Sudoku_Solver&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sona-gem&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=sona-gem&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sona-gem&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sona-gem&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
