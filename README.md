@@ -1,51 +1,39 @@
-<div align="center">
+# Hi, I'm Sona
 
-# Hi, I'm Sona Jomon 👋
+<img src="constellation.svg" alt="A star map of my GitHub projects. My own projects form the constellation Orion, ringed stars are projects I have contributed to, and an orbiting dot marks a quantum project." width="100%">
 
-### AI • Full Stack • Open Source
+I'm a CS student at IIIT Kottayam (2024 to 2028). I build machine learning projects and web apps, and lately most of my time goes into computer vision and quantum computing. I like following a project all the way from training the model to having it running somewhere people can use it.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New"/>
+Outside of code I paint and read. I'm also a core member of GDG On Campus at IIIT Kottayam and a GSSoC 2026 contributor.
 
-<br>
+## Things I've built
 
-<a href="https://www.linkedin.com/in/sona-jomon-840367340">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**[Sudoku OCR Solver](https://github.com/sona-gem/Sudoku_Solver)**
+Take a photo of a Sudoku and it reads the grid and solves it. A CNN trained only on MNIST handwriting struggled with printed digits, so I generated about 93K training samples from 8 fonts to close that gap, then added post-processing for the digits it kept mixing up (1s, 5s and 6s). It reaches 99.6% accuracy and solves in about 75 ms. Flask and TFLite on the backend, React on the front.
 
-<a href="mailto:sonajomon103@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**NeuroBridge**
+A hackathon project for neurodivergent users. I built the whole dyslexia support module: the Flask backend, read-aloud with word highlighting, and OCR that runs in the browser with tesseract.js.
 
-</div>
+**QuantumCheckers**
+A quantum-inspired take on checkers, built with my team for a quantum computing course.
 
----
+**LogFlow**
+A Kafka-based distributed log processing system, built with a team for a software architecture course.
 
-# About Me
+**[Paylytics](https://github.com/sona-gem/salary-prediction)**
+A salary predictor that compares four regression algorithms, deployed on Streamlit.
 
-I'm **Sona Jomon**, a Computer Science undergraduate passionate about building intelligent, scalable software that creates real-world impact.
+## Open source
 
-I enjoy combining **Artificial Intelligence**, **Full Stack Development**, and **Developer Tools** to create meaningful products. Whether it's an AI-powered application, an open-source contribution, or a hackathon project, I'm always looking for opportunities to learn by building.
+I've had pull requests merged in several quantum projects: Qiskit, qulacs, QuTiP and Deltakit. Through GSSoC 2026 I've also had PRs merged in DailyForge and Brownie Bliss.
 
-Outside of coding, you'll usually find me painting, getting lost in a good book, participating in hackathons, or exploring the latest AI technologies.
+## What I work with
 
----
+- **Languages:** Python, C++, JavaScript, TypeScript, Java
+- **ML and vision:** TensorFlow, OpenCV
+- **Web:** React, Next.js, Node, Express, Flask, FastAPI, Tailwind
+- **Databases:** MongoDB, PostgreSQL, Neo4j
 
-# Tech Stack
+## Get in touch
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,sql"/>
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-
-</div>
-
----
-
----
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) · [Email](mailto:sonajomon103@gmail.com)
