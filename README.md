@@ -36,4 +36,4 @@ I've had pull requests merged in several quantum projects: Qiskit, qulacs, QuTiP
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) · [Email](mailto:sonajomon103@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sona-jomon-840367340) · [Email](mailto:sonajomon103@gmail.com)
